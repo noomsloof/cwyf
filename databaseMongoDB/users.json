@@ -1,0 +1,39 @@
+[{
+  "_id": {
+    "$oid": "61ffc96fb5d3a3a3ef865a72"
+  },
+  "username": "Toh",
+  "password": "1234",
+  "name": "โต สัตว์ประหลาด",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc986b5d3a3a3ef865a74"
+  },
+  "username": "Aun",
+  "password": "1234",
+  "name": "อั๋น สัตว์ประหลาด",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61ffc992b5d3a3a3ef865a76"
+  },
+  "username": "Pun",
+  "password": "1234",
+  "name": "ปั้น สัตว์ประหลาด",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62032907c92ec11748a5bc87"
+  },
+  "username": "Fix",
+  "password": "1234",
+  "name": "ฟิก สัตว์ประหลาด",
+  "created_at": {
+    "$date": "2022-02-09T02:36:41.595Z"
+  },
+  "updated_at": {
+    "$date": "2022-02-09T02:36:41.595Z"
+  },
+  "__v": 0
+}]
